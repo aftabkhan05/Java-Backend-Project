@@ -51,7 +51,7 @@ src/main/java
 2. Open in IntelliJ IDEA  
 3. Add your Weather API key inside `application.properties`  
 4. Run the main Spring Boot application  
-5. Open browser:http://localhost:8080/weather/Delhi
+5. Open browser:http://127.0.0.1:5500/WeatherUi/index.html
 
 
 
